@@ -1,4 +1,6 @@
-Content and SEO Marketing for B2B tech startups and scaleups. Programmatic SEO, AI search visibility, digital PR, and content-led growth. Doing both strategy and execution!
+<h2>SEO & GEO Marketer | Building for Search</h2>
+
+Content, SEO, and AEO Marketing for B2B tech startups and scaleups. Programmatic SEO, AI search visibility, digital PR, and content-led growth. Doing both strategy and execution!
 
 I build tools around the problems I encounter in SEO and AI search.
 
@@ -8,6 +10,6 @@ I build tools around the problems I encounter in SEO and AI search.
 Currently: 
 - Building organic search programs to attract qualified B2B buyers
 - Helping B2B SaaS brands get more visibility on AI platforms 
-- Creating content guidelines to prevent AI slop and the ripple effects
+- Creating content guidelines to prevent AI slop and its ripple effects
 
 India 🇮🇳 | Connect with me on [LinkedIn](https://www.linkedin.com/in/rajpalrohit04)
